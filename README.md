@@ -19,7 +19,7 @@
 
 # 程序语言
 
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)])
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-TW/)
 
 [![](https://img.shields.io/badge/javascript-blue)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)
 
