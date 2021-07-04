@@ -21,7 +21,7 @@
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/zh-TW/)
 
-[![](https://img.shields.io/badge/javascript-blue)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/javascript-blue&logo=javascript)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)
 
 # 游戏
 
