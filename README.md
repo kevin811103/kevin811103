@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Taiwan New Taipei city
+- 🌱 I’m currently learning Spring Boot and Angular
+  <!-- - 👯 I’m looking to collaborate on ... -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 💬 Ask me about ... -->
+  <!-- - 📫 How to reach me: ... -->
+  <!-- - 😄 Pronouns: ... -->
+  <!-- - ⚡ Fun fact: ... -->
+
 # README
 
 ![Kevin811103's github stats](https://github-readme-stats.vercel.app/api?username=kevin811103)
@@ -47,7 +56,7 @@ Here are some ideas to get you started:
 <!--
 參考
 1. https://hsiangfeng.github.io/other/20210102/1186303391/
-
+2. https://zhuanlan.zhihu.com/p/265462490
 圖標產生網頁
  https://shields.io/
 
