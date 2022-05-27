@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Taiwan New Taipei city
-- 🌱 I’m currently learning Spring Boot and Angular
+ <!-- 🌱 I’m currently learning Spring Boot and Angular-->
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
